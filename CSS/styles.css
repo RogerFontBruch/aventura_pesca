@@ -1,0 +1,745 @@
+#fons{
+    background-image: url(../Media/riubo2.jpg);
+    background-repeat:no-repeat;
+    
+}
+#fons2{
+    background-image: url(../Media/fonspantalla.jpg);
+    background-repeat:no-repeat;
+}
+
+#imatgePortada{
+    
+    position: fixed;
+}
+#titolPortada{
+    font-family:cursive;
+    font-size: 50px;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#comencar{
+    position: fixed;
+    margin-top: 250px;
+    margin-left: 560px;
+    
+}
+#personatge{
+    margin-top: 300px;
+    position: fixed;
+    
+}
+#titol2{
+    border: 4px solid rgb(0,0,0);
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 50px;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 350px;
+    background-color: aliceblue;
+        
+}
+#titol3{
+    border: 4px solid rgb(0,0,0);
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 50px;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 180px;
+    background-color: aliceblue;
+    
+}
+#titol4{
+    border: 4px solid rgb(0,0,0);
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 50px;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 180px;
+    background-color: aliceblue;
+    
+}
+#titol5{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-top: 5px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 275px;
+    background-color: aliceblue;
+    
+}
+#mar{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    margin-top: 450px;
+    margin-left: 100px;
+    height: 224px;
+    cursor: pointer;
+    
+}
+#riu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    margin-top: 445px;
+    margin-left: 590px;
+    height: 237px;
+    cursor: pointer;
+    
+}
+#texte1{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    
+    margin-top: 260px;
+    margin-left: 60px;
+    background-color: aliceblue;
+}
+#texte2{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    
+    margin-top: 190px;
+    margin-left: 60px;
+    margin-right: 90px;
+    background-color: aliceblue;
+}
+#texte3{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 20px;
+    padding-right: 6px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 190px;
+    margin-left: 60px;
+    margin-right: 120px;
+    background-color: aliceblue;
+}
+#texte4{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    margin-left: 50px;
+    margin-right: 55px;
+    margin-top: 230px;
+    font-family:cursive;
+    font-size: 20px;
+    background-color: aliceblue;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+#textemar{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 220px;
+    background-color: aliceblue;
+}
+#texteriu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 710px;
+    background-color: aliceblue;
+}
+#texteReiniciar{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 670px;
+    margin-left: 112px;
+    background-color: aliceblue;
+}
+#enrere{
+    position: fixed;
+    margin-top: 680px;
+    margin-left: 13px;
+}
+#credits{
+    position: fixed;
+    margin-left: 600px;
+    margin-top: 470px;
+}
+#pagina2{
+    visibility: visible;
+}
+#pagina3{
+    visibility: hidden;
+}
+#pagina4{
+    visibility: hidden;
+}
+
+#pagina5{
+    visibility: hidden;
+}
+
+#pagina6{
+    visibility: hidden;
+}
+
+#pagina7{
+    visibility: hidden;
+}
+
+#pagina8{
+    visibility: hidden;
+}
+#minmar{
+    visibility: hidden;
+}
+#minmar2{
+    visibility: hidden;
+}
+#minriu{
+    visibility: hidden;
+}
+#minriu2{
+    visibility: hidden;
+}
+#minsmar{
+    visibility: hidden;
+}
+#minsmar2{
+    visibility: hidden;
+}
+#minsriu{
+    visibility: hidden;
+}
+#minsriu2{
+    visibility: hidden;
+}
+#hmar{
+    visibility: hidden;
+}
+#hmar2{
+    visibility: hidden;
+}
+#hriu{
+    visibility: hidden;
+}
+#hriu2{
+    visibility: hidden;
+}
+#MarGros{
+    position: fixed;
+    margin-top: 410px;
+    margin-left: 300px;
+    border: 4px solid rgb(0,0,0);
+    height: 283px;
+}
+#punt{
+    position: fixed;
+    margin-top: 530px;
+    margin-left: 470px;
+    cursor: pointer;
+}
+#punt2{
+    position: fixed;
+    margin-top: 630px;
+    margin-left: 420px;
+    cursor: pointer;
+}
+#punt3{
+    position: fixed;
+    margin-top: 530px;
+    margin-left: 550px;
+    cursor: pointer;
+}
+#punt4{
+    position: fixed;
+    margin-top: 600px;
+    margin-left: 470px;
+    cursor: pointer;
+}
+#RiuGros{
+    position: fixed;
+    margin-top: 410px;
+    margin-left: 350px;
+    border: 4px solid rgb(0,0,0);
+    height: 237px;
+}
+#minmp{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 210px;
+    background-color: aliceblue;   
+}
+#minump{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 450px;
+    background-color: aliceblue; 
+}
+#hmp{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left:700px;
+    background-color: aliceblue;  
+}
+#minmpu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 210px;
+    background-color: aliceblue;   
+}
+#minumpu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 450px;
+    background-color: aliceblue; 
+}
+#hmpu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left:700px;
+    background-color: aliceblue;  
+}
+#minrp{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 210px;
+    background-color: aliceblue;   
+}
+#minurp{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 450px;
+    background-color: aliceblue; 
+}
+#hrp{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left:700px;
+    background-color: aliceblue;  
+}
+#minrpu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 210px;
+    background-color: aliceblue;   
+}
+#minurpu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left: 450px;
+    background-color: aliceblue; 
+}
+#hrpu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 700px;
+    margin-left:700px;
+    background-color: aliceblue;  
+}
+#pescaminmp{
+ position: fixed;
+    margin-top: 570px;
+    margin-left: 215px;
+    cursor: pointer;   
+}
+#pescaminump{
+ position: fixed;
+    margin-top: 570px;
+    margin-left: 458px;
+    cursor: pointer;   
+}
+#pescadosh{
+    position: fixed;
+    margin-top: 570px;
+    margin-left: 699px;
+    cursor: pointer;
+    
+}
+#pescadoshlogo{
+    position: fixed;
+    margin-top: 600px;
+    margin-left: 699px;
+    cursor: pointer;
+    
+}
+#pescaminrol{
+    position: fixed;
+    margin-top: 600px;
+    margin-left: 215px;
+    cursor: pointer;
+    
+}
+#sorraRelotge{
+    position: fixed;
+    margin-top: 390px;
+    margin-left: 60px;
+}
+#sorraRelotge2{
+    position: fixed;
+    margin-top: 390px;
+    margin-left: 790px;
+}
+#fons5{
+    position: fixed;
+    margin-top: 343px;
+    margin-left: 355px;
+    
+     
+}
+#fons6{
+    position: fixed;
+    margin-top: 304px;
+    margin-left: 260px;
+   
+    
+     
+}
+#fons7{
+    position: fixed;
+    margin-top: 248px;
+    margin-left: 290px;
+    
+     
+}
+#fons8{
+    position: fixed;
+    margin-top: 315px;
+    margin-left: 280px;
+    
+     
+}
+#home{
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+#repeat{
+    position: fixed;
+    margin-top: 70px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+#nofishing{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    margin-top: 170px;
+    margin-left: 140px;
+    height: 391px;
+}
+#texteminmar{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 250px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: aliceblue;
+}
+#smallfish{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    margin-top: 250px;
+    margin-left: 330px;
+    height: 240px;
+}
+#texteminmar2{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 310px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: aliceblue;
+}
+#rapidfish{
+    position: fixed;
+    margin-top: 250px;
+    margin-left: 330px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#texteminriu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 85px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: aliceblue;
+}
+#desesperat{
+    position: fixed;
+    margin-top: 210px;
+    margin-left: 240px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#texteminriu2{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 550px;
+    margin-left: 40px;
+    width: 900px; 
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#broke{
+    position: fixed;
+    margin-top: 210px;
+    margin-left: 370px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#texteminsmar{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 115px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#befish{
+    position: fixed;
+    margin-top: 280px;
+    margin-left: 390px;
+    height: 151px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#texteminsmar2{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 270px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#strangefish{
+    position: fixed;
+    margin-top: 170px;
+    margin-left: 240px;
+    height: 375px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#texteminsriu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 104px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#aborritfish{
+    position: fixed;
+    margin-top: 260px;
+    margin-left: 320px;
+    height: 195px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#texteminsriu2{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 166px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#bigfish{
+    position: fixed;
+    margin-top: 165px;
+    margin-left: 199px;
+    height: 387px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#textehmar{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 250px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#sleepfish{
+    position: fixed;
+    margin-top: 210px;
+    margin-left: 290px;
+    height: 300px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#textehmar2{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 100px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#pescat2hfish{
+    position: fixed;
+    margin-top: 270px;
+    margin-left: 315px;
+    height: 185px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#textehriu{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 580px;
+    margin-left: 320px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: aliceblue;
+}
+#correfish{
+    position: fixed;
+    margin-top: 240px;
+    margin-left: 380px;
+    height: 185px;
+    background-color: aliceblue;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#textehriu2{
+    position: fixed;
+    border: 4px solid rgb(0,0,0);
+    font-family:cursive;
+    font-size: 20px;
+    margin-top: 520px;
+    margin-right: 10px;
+    padding-left: 13px;
+    background-color: aliceblue;
+}
